@@ -1,0 +1,70 @@
+=================================================================
+         EXPENSE TRACKER APP – ANNUAL REPORT
+         Generated : 2026-04-17 15:04:34
+=================================================================
+
+OVERVIEW
+-----------------------------------------------------------------
+  Total Records     : 502
+  Date Range        : 2024-01-02  →  2024-12-30
+  Total Expenditure : ₹  554,887.39
+  Average per Txn   : ₹    1,105.35
+  Highest Txn       : ₹   14,995.72
+  Lowest  Txn       : ₹      111.92
+
+CATEGORY-WISE SPENDING
+-----------------------------------------------------------------
+  Shopping               ₹   108,721   (19.6%)
+  Food & Dining          ₹    83,152   (15.0%)
+  Education              ₹    81,011   (14.6%)
+  Rent & Housing         ₹    68,653   (12.4%)
+  Travel                 ₹    51,072   (9.2%)
+  Entertainment          ₹    44,429   (8.0%)
+  Utilities              ₹    41,021   (7.4%)
+  Transportation         ₹    29,784   (5.4%)
+  Miscellaneous          ₹    25,207   (4.5%)
+  Healthcare             ₹    21,838   (3.9%)
+
+MONTHLY SUMMARY
+-----------------------------------------------------------------
+  January      ₹    24,542   Txns:  34   MoM:   N/A
+  February     ₹    41,227   Txns:  41   MoM: +68.0%
+  March        ₹    52,550   Txns:  43   MoM: +27.5%
+  April        ₹    59,207   Txns:  40   MoM: +12.7%
+  May          ₹    27,269   Txns:  42   MoM: -53.9%
+  June         ₹    32,368   Txns:  35   MoM: +18.7%
+  July         ₹    31,442   Txns:  40   MoM: -2.9%
+  August       ₹    44,439   Txns:  42   MoM: +41.3%
+  September    ₹    78,575   Txns:  49   MoM: +76.8%
+  October      ₹    69,314   Txns:  47   MoM: -11.8%
+  November     ₹    31,114   Txns:  39   MoM: -55.1%
+  December     ₹    62,840   Txns:  50   MoM: +102.0%
+
+BUDGET ANALYSIS  (Monthly Budget = ₹30,000)
+-----------------------------------------------------------------
+  January      Spent ₹   24,542   Variance ₹   +5,458   ✅ Under Budget
+  February     Spent ₹   41,227   Variance ₹  -11,227   ❌ Over Budget
+  March        Spent ₹   52,550   Variance ₹  -22,550   ❌ Over Budget
+  April        Spent ₹   59,207   Variance ₹  -29,207   ❌ Over Budget
+  May          Spent ₹   27,269   Variance ₹   +2,731   ✅ Under Budget
+  June         Spent ₹   32,368   Variance ₹   -2,368   ❌ Over Budget
+  July         Spent ₹   31,442   Variance ₹   -1,442   ❌ Over Budget
+  August       Spent ₹   44,439   Variance ₹  -14,439   ❌ Over Budget
+  September    Spent ₹   78,575   Variance ₹  -48,575   ❌ Over Budget
+  October      Spent ₹   69,314   Variance ₹  -39,314   ❌ Over Budget
+  November     Spent ₹   31,114   Variance ₹   -1,114   ❌ Over Budget
+  December     Spent ₹   62,840   Variance ₹  -32,840   ❌ Over Budget
+
+KEY INSIGHTS
+-----------------------------------------------------------------
+  💡 Highest spending category: Shopping (₹108,721)
+  💡 Most expensive month: September
+  💡 Most spending day: Friday
+  💡 Most used payment method by value: Net Banking
+  💡 Average daily spend: ₹2,047.55
+  💡 Months over budget: 10 out of 12
+  💡 You spend more on weekends (₹1,194 avg) vs weekdays (₹1,076 avg)
+
+=================================================================
+  END OF REPORT
+=================================================================

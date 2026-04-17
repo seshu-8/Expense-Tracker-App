@@ -1,0 +1,511 @@
+Date,Category,Description,Amount,Payment_Method,Month,Month_Num,Year,Day_of_Week
+2024-12-18,Food & Dining,Coffee shop,650.58,Credit Card,December,12,2024,Wednesday
+2024-11-30,Utilities,Internet bill,677.95,Net Banking,November,11,2024,Saturday
+2024-12-13,Shopping,Amazon purchase,2473.07,UPI,December,12,2024,Friday
+2024-11-23,Shopping,Amazon purchase,3941.36,Net Banking,November,11,2024,Saturday
+2024-10-03,Food & Dining,Swiggy delivery,761.31,Net Banking,October,10,2024,Thursday
+2024-02-18,Food & Dining,Coffee shop,458.63,Cash,February,2,2024,Sunday
+2024-09-04,Food & Dining,Grocery shopping,347.91,Net Banking,September,9,2024,Wednesday
+2024-03-02,Entertainment,Movie tickets,,Debit Card,March,3,2024,Saturday
+2024-07-31,Entertainment,Concert,606.31,UPI,July,7,2024,Wednesday
+2024-09-17,Entertainment,Spotify,377.46,Credit Card,September,9,2024,Tuesday
+2024-11-06,Transportation,Uber ride,209.27,Net Banking,November,11,2024,Wednesday
+2024-06-18,Food & Dining,Restaurant dinner,342.8,Cash,June,6,2024,Tuesday
+2024-04-01,Transportation,Bus pass,142.56,UPI,April,4,2024,Monday
+2024-07-13,Transportation,Ola cab,297.72,UPI,July,7,2024,Saturday
+2024-05-10,Food & Dining,Supermarket,271.99,Cash,May,5,2024,Friday
+2024-03-10,Food & Dining,Zomato order,665.71,Cash,March,3,2024,Sunday
+2024-09-05,Shopping,Books,,Credit Card,September,9,2024,Thursday
+2024-08-01,Food & Dining,Coffee shop,317.72,Debit Card,August,8,2024,Thursday
+2024-09-15,Transportation,Metro card recharge,177.12,Credit Card,September,9,2024,Sunday
+2024-02-28,Entertainment,OTT platform,819.12,UPI,February,2,2024,Wednesday
+2024-08-10,Food & Dining,Zomato order,788.02,Credit Card,August,8,2024,Saturday
+2024-01-11,Transportation,Metro card recharge,288.05,Cash,January,1,2024,Thursday
+2024-07-13,Education,Books & stationery,1613.8,UPI,July,7,2024,Saturday
+2024-10-29,Transportation,Ola cab,111.92,Debit Card,October,10,2024,Tuesday
+2024-11-10,Entertainment,Concert,923.76,Net Banking,November,11,2024,Sunday
+2024-12-01,Food & Dining,Coffee shop,770.78,Cash,December,12,2024,Sunday
+2024-05-10,Transportation,Uber ride,161.06,Cash,May,5,2024,Friday
+2024-01-30,Food & Dining,Zomato order,540.41,Credit Card,January,1,2024,Tuesday
+2024-11-29,Food & Dining,Grocery shopping,778.35,UPI,November,11,2024,Friday
+2024-03-07,Shopping,Home decor,1966.16,Net Banking,March,3,2024,Thursday
+2024-10-13,Utilities,Internet bill,1709.3,Credit Card,October,10,2024,Sunday
+2024-04-14,Transportation,Ola cab,265.57,Net Banking,April,4,2024,Sunday
+2024-10-01,Food & Dining,Grocery shopping,264.5,Debit Card,October,10,2024,Tuesday
+2024-02-29,Entertainment,Netflix subscription,1131.99,Cash,February,2,2024,Thursday
+2024-06-10,Miscellaneous,ATM withdrawal,942.16,Credit Card,June,6,2024,Monday
+2024-09-07,Food & Dining,Supermarket,776.47,Cash,September,9,2024,Saturday
+2024-10-03,Utilities,Gas cylinder,1048.79,Net Banking,October,10,2024,Thursday
+2024-03-17,Education,Books & stationery,4771.07,Credit Card,March,3,2024,Sunday
+2024-06-17,Entertainment,Concert,734.05,Cash,June,6,2024,Monday
+2024-04-29,Rent & Housing,Maintenance charges,13280.7,Credit Card,April,4,2024,Monday
+2024-06-21,Entertainment,Gaming,1237.59,Debit Card,June,6,2024,Friday
+2024-10-22,Shopping,Flipkart order,3971.47,UPI,October,10,2024,Tuesday
+2024-02-25,Shopping,Amazon purchase,1967.08,Debit Card,February,2,2024,Sunday
+2024-01-05,Food & Dining,Grocery shopping,561.67,UPI,January,1,2024,Friday
+2024-11-26,Entertainment,Spotify,861.04,Credit Card,November,11,2024,Tuesday
+2024-09-14,Miscellaneous,Bank charges,,Net Banking,September,9,2024,Saturday
+2024-03-05,Transportation,Petrol,145.76,Debit Card,March,3,2024,Tuesday
+2024-08-12,Food & Dining,Grocery shopping,613.21,Cash,August,8,2024,Monday
+2024-06-08,Shopping,Flipkart order,1880.63,Credit Card,June,6,2024,Saturday
+2024-12-10,Entertainment,Gaming,432.92,Cash,December,12,2024,Tuesday
+2024-05-17,Transportation,Uber ride,341.99,Credit Card,May,5,2024,Friday
+2024-03-03,Food & Dining,Supermarket,244.43,Debit Card,March,3,2024,Sunday
+2024-08-18,Food & Dining,Supermarket,739.48,UPI,August,8,2024,Sunday
+2024-12-01,Entertainment,Spotify,1104.79,Credit Card,December,12,2024,Sunday
+2024-12-29,Food & Dining,Restaurant dinner,525.3,UPI,December,12,2024,Sunday
+2024-11-14,Miscellaneous,Other expense,996.49,Credit Card,November,11,2024,Thursday
+2024-02-01,Entertainment,Spotify,874.29,Net Banking,February,2,2024,Thursday
+2024-03-03,Shopping,Clothing store,1857.98,Cash,March,3,2024,Sunday
+2024-11-08,Miscellaneous,Gift purchase,189.31,Debit Card,November,11,2024,Friday
+2024-05-06,Food & Dining,Restaurant dinner,212.23,Debit Card,May,5,2024,Monday
+2024-02-28,Healthcare,Doctor consultation,578.4,UPI,February,2,2024,Wednesday
+2024-01-02,Transportation,Ola cab,152.33,UPI,January,1,2024,Tuesday
+2024-03-05,Food & Dining,Grocery shopping,667.11,UPI,March,3,2024,Tuesday
+2024-01-17,Education,Books & stationery,2305.24,Credit Card,January,1,2024,Wednesday
+2024-06-22,Education,Books & stationery,2607.49,Credit Card,June,6,2024,Saturday
+2024-01-26,Shopping,Electronics,2793.68,Credit Card,January,1,2024,Friday
+2024-09-05,Education,Books & stationery,4900.93,Net Banking,September,9,2024,Thursday
+2024-03-03,Food & Dining,Zomato order,348.75,Credit Card,March,3,2024,Sunday
+2024-07-13,Food & Dining,Restaurant dinner,755.23,Net Banking,July,7,2024,Saturday
+2024-02-28,Food & Dining,Coffee shop,311.63,Net Banking,February,2,2024,Wednesday
+2024-12-13,Miscellaneous,Charity donation,582.59,Credit Card,December,12,2024,Friday
+2024-09-10,Food & Dining,Zomato order,649.4,UPI,September,9,2024,Tuesday
+2024-01-22,Transportation,Metro card recharge,283.9,Credit Card,January,1,2024,Monday
+2024-08-08,Food & Dining,Swiggy delivery,428.12,Debit Card,August,8,2024,Thursday
+2024-04-08,Food & Dining,Restaurant dinner,469.17,Cash,April,4,2024,Monday
+2024-11-26,Food & Dining,Restaurant dinner,661.23,Net Banking,November,11,2024,Tuesday
+2024-07-13,Food & Dining,Grocery shopping,434.25,Cash,July,7,2024,Saturday
+2024-02-06,Entertainment,Netflix subscription,276.54,Credit Card,February,2,2024,Tuesday
+2024-12-05,Utilities,Electricity,1579.63,UPI,December,12,2024,Thursday
+2024-02-11,Shopping,Clothing store,853.57,UPI,February,2,2024,Sunday
+2024-08-19,Food & Dining,Zomato order,421.24,UPI,August,8,2024,Monday
+2024-05-30,Food & Dining,Grocery shopping,674.67,Credit Card,May,5,2024,Thursday
+2024-09-28,Transportation,Ola cab,372.72,Debit Card,September,9,2024,Saturday
+2024-03-19,Transportation,Auto rickshaw,393.52,UPI,March,3,2024,Tuesday
+2024-08-09,Entertainment,Netflix subscription,984.83,Credit Card,August,8,2024,Friday
+2024-04-25,Utilities,Electricity,1586.33,Cash,April,4,2024,Thursday
+2024-04-30,Transportation,Metro card recharge,206.8,UPI,April,4,2024,Tuesday
+2024-11-28,Transportation,Petrol,204.62,Net Banking,November,11,2024,Thursday
+2024-05-18,Transportation,Metro card recharge,192.22,Debit Card,May,5,2024,Saturday
+2024-02-28,Transportation,Petrol,146.99,Debit Card,February,2,2024,Wednesday
+2024-07-11,Food & Dining,Restaurant dinner,308.51,Net Banking,July,7,2024,Thursday
+2024-08-18,Transportation,Auto rickshaw,306.94,Debit Card,August,8,2024,Sunday
+2024-11-01,Food & Dining,Grocery shopping,260.32,Debit Card,November,11,2024,Friday
+2024-07-13,Transportation,Ola cab,297.72,UPI,July,7,2024,Saturday
+2024-08-20,Shopping,Clothing store,1412.08,UPI,August,8,2024,Tuesday
+2024-12-25,Education,Online course,3824.49,Net Banking,December,12,2024,Wednesday
+2024-05-16,Healthcare,Gym membership,878.3,UPI,May,5,2024,Thursday
+2024-10-08,Food & Dining,Zomato order,372.82,Cash,October,10,2024,Tuesday
+2024-04-15,Food & Dining,Swiggy delivery,556.37,Cash,April,4,2024,Monday
+2024-09-15,Shopping,Electronics,1903.11,Net Banking,September,9,2024,Sunday
+2024-11-24,Food & Dining,Restaurant dinner,764.96,Debit Card,November,11,2024,Sunday
+2024-05-15,Transportation,Petrol,368.68,UPI,May,5,2024,Wednesday
+2024-08-27,Utilities,Mobile recharge,581.26,Credit Card,August,8,2024,Tuesday
+2024-09-21,Transportation,Metro card recharge,199.16,Credit Card,September,9,2024,Saturday
+2024-12-19,Entertainment,Spotify,862.69,UPI,December,12,2024,Thursday
+2024-04-19,Food & Dining,Coffee shop,444.56,Net Banking,April,4,2024,Friday
+2024-12-30,Travel,Hotel booking,4507.6,Net Banking,December,12,2024,Monday
+2024-07-31,Transportation,Uber ride,415.09,UPI,July,7,2024,Wednesday
+2024-11-26,Utilities,Electricity,1782.94,Net Banking,November,11,2024,Tuesday
+2024-09-26,Rent & Housing,Water charges,13504.89,Net Banking,September,9,2024,Thursday
+2024-03-06,Shopping,Clothing store,2867.12,Debit Card,March,3,2024,Wednesday
+2024-03-01,Shopping,Home decor,2851.59,UPI,March,3,2024,Friday
+2024-11-29,Utilities,Internet bill,1327.0,Debit Card,November,11,2024,Friday
+2024-01-19,Food & Dining,Zomato order,779.21,UPI,January,1,2024,Friday
+2024-06-04,Food & Dining,Swiggy delivery,457.93,Net Banking,June,6,2024,Tuesday
+2024-08-01,Utilities,Internet bill,-763.68,Credit Card,August,8,2024,Thursday
+2024-10-20,Food & Dining,Restaurant dinner,487.23,UPI,October,10,2024,Sunday
+2024-01-22,Education,Certification exam,627.68,Credit Card,January,1,2024,Monday
+2024-12-02,Miscellaneous,Bank charges,642.43,Debit Card,December,12,2024,Monday
+2024-09-12,Shopping,Clothing store,2399.98,Debit Card,September,9,2024,Thursday
+2024-02-20,Utilities,Mobile recharge,1423.48,UPI,February,2,2024,Tuesday
+2024-09-09,Food & Dining,Coffee shop,532.41,UPI,September,9,2024,Monday
+2024-09-11,Food & Dining,Coffee shop,-767.14,Net Banking,September,9,2024,Wednesday
+2024-07-08,Food & Dining,Coffee shop,588.53,Credit Card,July,7,2024,Monday
+2024-10-27,Entertainment,Concert,400.88,Cash,October,10,2024,Sunday
+2024-08-23,Education,Udemy course,4638.96,Credit Card,August,8,2024,Friday
+2024-12-08,Travel,Cab booking,8868.75,Credit Card,December,12,2024,Sunday
+2024-11-21,Miscellaneous,Gift purchase,390.89,UPI,November,11,2024,Thursday
+2024-12-22,Healthcare,Doctor consultation,1745.5,Net Banking,December,12,2024,Sunday
+2024-01-27,Food & Dining,Zomato order,717.03,Credit Card,January,1,2024,Saturday
+2024-10-02,Entertainment,Movie tickets,909.97,Net Banking,October,10,2024,Wednesday
+2024-02-08,Food & Dining,Coffee shop,445.11,Net Banking,February,2,2024,Thursday
+2024-04-22,Transportation,Ola cab,-211.28,Credit Card,April,4,2024,Monday
+2024-11-08,Food & Dining,Supermarket,237.93,Cash,November,11,2024,Friday
+2024-09-01,Transportation,Uber ride,441.09,Debit Card,September,9,2024,Sunday
+2024-04-11,Food & Dining,Swiggy delivery,227.73,Cash,April,4,2024,Thursday
+2024-09-09,Food & Dining,Restaurant dinner,228.27,Credit Card,September,9,2024,Monday
+2024-01-31,Food & Dining,Grocery shopping,384.57,Net Banking,January,1,2024,Wednesday
+2024-03-30,Shopping,Amazon purchase,1252.37,Net Banking,March,3,2024,Saturday
+2024-04-29,Transportation,Uber ride,159.02,Net Banking,April,4,2024,Monday
+2024-06-11,Miscellaneous,Other expense,902.28,Net Banking,June,6,2024,Tuesday
+2024-11-09,Food & Dining,Restaurant dinner,749.89,Cash,November,11,2024,Saturday
+2024-02-20,Miscellaneous,Charity donation,430.6,UPI,February,2,2024,Tuesday
+2024-07-28,Education,Online course,831.88,UPI,July,7,2024,Sunday
+2024-01-27,Food & Dining,Zomato order,454.15,UPI,January,1,2024,Saturday
+2024-01-21,Healthcare,Health insurance,597.82,Net Banking,January,1,2024,Sunday
+2024-05-21,Utilities,Electricity,717.03,Debit Card,May,5,2024,Tuesday
+2024-02-27,Miscellaneous,Gift purchase,890.85,UPI,February,2,2024,Tuesday
+2024-10-23,Shopping,Home decor,4799.4,Debit Card,October,10,2024,Wednesday
+2024-10-21,Transportation,Metro card recharge,261.77,Cash,October,10,2024,Monday
+2024-03-11,Food & Dining,Supermarket,429.82,Debit Card,March,3,2024,Monday
+2024-12-29,Food & Dining,Grocery shopping,768.49,Net Banking,December,12,2024,Sunday
+2024-09-26,Transportation,Auto rickshaw,381.51,Credit Card,September,9,2024,Thursday
+2024-01-26,Food & Dining,Grocery shopping,396.41,Cash,January,1,2024,Friday
+2024-06-25,Transportation,Petrol,213.3,Net Banking,June,6,2024,Tuesday
+2024-07-28,Transportation,Metro card recharge,368.05,Debit Card,July,7,2024,Sunday
+2024-06-07,Transportation,Petrol,495.65,Net Banking,June,6,2024,Friday
+2024-01-09,Food & Dining,Swiggy delivery,231.44,Cash,January,1,2024,Tuesday
+2024-03-31,Utilities,Internet bill,537.18,UPI,March,3,2024,Sunday
+2024-02-11,Transportation,Metro card recharge,399.61,Credit Card,February,2,2024,Sunday
+2024-10-20,Food & Dining,Swiggy delivery,457.47,Net Banking,October,10,2024,Sunday
+2024-01-19,Shopping,Flipkart order,1086.93,UPI,January,1,2024,Friday
+2024-12-11,Utilities,DTH recharge,1105.66,Net Banking,December,12,2024,Wednesday
+2024-12-05,Shopping,Clothing store,1683.15,Net Banking,December,12,2024,Thursday
+2024-01-08,Transportation,Metro card recharge,,Net Banking,January,1,2024,Monday
+2024-06-21,Transportation,Bus pass,303.89,Cash,June,6,2024,Friday
+2024-12-19,Food & Dining,Coffee shop,387.03,UPI,December,12,2024,Thursday
+2024-02-24,Food & Dining,Zomato order,553.32,Net Banking,February,2,2024,Saturday
+2024-03-26,Entertainment,Spotify,,Credit Card,March,3,2024,Tuesday
+2024-09-05,Transportation,Ola cab,445.86,Credit Card,September,9,2024,Thursday
+2024-08-18,Travel,Flight tickets,4652.28,Cash,August,8,2024,Sunday
+2024-01-29,Food & Dining,Restaurant dinner,,Debit Card,January,1,2024,Monday
+2024-05-28,Miscellaneous,Gift purchase,877.75,Cash,May,5,2024,Tuesday
+2024-12-05,Transportation,Petrol,250.73,Debit Card,December,12,2024,Thursday
+2024-01-27,Miscellaneous,Charity donation,640.37,UPI,January,1,2024,Saturday
+2024-01-11,Shopping,Amazon purchase,1075.29,Debit Card,January,1,2024,Thursday
+2024-12-05,Healthcare,Gym membership,1408.43,Debit Card,December,12,2024,Thursday
+2024-03-24,Entertainment,Netflix subscription,1042.77,Debit Card,March,3,2024,Sunday
+2024-02-05,Miscellaneous,Bank charges,928.69,Net Banking,February,2,2024,Monday
+2024-05-01,Transportation,Bus pass,243.58,UPI,May,5,2024,Wednesday
+2024-12-14,Food & Dining,Restaurant dinner,543.54,Credit Card,December,12,2024,Saturday
+2024-04-04,Entertainment,Spotify,815.57,Debit Card,April,4,2024,Thursday
+2024-03-30,Food & Dining,Supermarket,722.5,Net Banking,March,3,2024,Saturday
+2024-05-15,Education,Online course,3783.79,Net Banking,May,5,2024,Wednesday
+2024-05-29,Transportation,Petrol,209.37,Cash,May,5,2024,Wednesday
+2024-09-01,Transportation,Petrol,199.22,UPI,September,9,2024,Sunday
+2024-04-24,Food & Dining,Grocery shopping,315.88,UPI,April,4,2024,Wednesday
+2024-10-09,Food & Dining,Grocery shopping,730.55,Credit Card,October,10,2024,Wednesday
+2024-11-21,Food & Dining,Coffee shop,637.48,Debit Card,November,11,2024,Thursday
+2024-06-04,Miscellaneous,Other expense,204.51,Debit Card,June,6,2024,Tuesday
+2024-09-04,Transportation,Metro card recharge,236.08,Debit Card,September,9,2024,Wednesday
+2024-09-30,Food & Dining,Restaurant dinner,779.36,Cash,September,9,2024,Monday
+2024-12-03,Entertainment,Spotify,475.4,Credit Card,December,12,2024,Tuesday
+2024-04-22,Food & Dining,Coffee shop,774.78,Net Banking,April,4,2024,Monday
+2024-12-28,Food & Dining,Swiggy delivery,477.82,Credit Card,December,12,2024,Saturday
+2024-02-27,Food & Dining,Restaurant dinner,528.59,Net Banking,February,2,2024,Tuesday
+2024-07-25,Entertainment,Movie tickets,1240.77,Credit Card,July,7,2024,Thursday
+2024-05-08,Healthcare,Medicine purchase,486.87,Credit Card,May,5,2024,Wednesday
+2024-01-08,Transportation,Metro card recharge,,Net Banking,January,1,2024,Monday
+2024-10-14,Rent & Housing,Water charges,13229.1,Cash,October,10,2024,Monday
+2024-07-12,Food & Dining,Grocery shopping,375.91,Net Banking,July,7,2024,Friday
+2024-05-29,Food & Dining,Supermarket,372.86,UPI,May,5,2024,Wednesday
+2024-07-22,Shopping,Electronics,2629.41,Net Banking,July,7,2024,Monday
+2024-03-25,Food & Dining,Grocery shopping,694.81,Cash,March,3,2024,Monday
+2024-12-22,Transportation,Bus pass,259.86,Debit Card,December,12,2024,Sunday
+2024-04-24,Shopping,Amazon purchase,2453.08,Credit Card,April,4,2024,Wednesday
+2024-03-10,Transportation,Petrol,248.4,Net Banking,March,3,2024,Sunday
+2024-04-27,Miscellaneous,Other expense,852.36,Net Banking,April,4,2024,Saturday
+2024-06-21,Healthcare,Medicine purchase,1265.23,Debit Card,June,6,2024,Friday
+2024-11-06,Transportation,Auto rickshaw,380.78,Cash,November,11,2024,Wednesday
+2024-03-05,Shopping,Amazon purchase,2381.98,Credit Card,March,3,2024,Tuesday
+2024-07-31,Entertainment,Concert,606.31,UPI,July,7,2024,Wednesday
+2024-05-04,Entertainment,Movie tickets,1114.9,Cash,May,5,2024,Saturday
+2024-05-04,Transportation,Auto rickshaw,157.86,Debit Card,May,5,2024,Saturday
+2024-06-01,Transportation,Auto rickshaw,387.64,Cash,June,6,2024,Saturday
+2024-07-07,Entertainment,Gaming,941.55,Cash,July,7,2024,Sunday
+2024-03-01,Shopping,Home decor,1540.44,Net Banking,March,3,2024,Friday
+2024-08-30,Food & Dining,Restaurant dinner,,Cash,August,8,2024,Friday
+2024-06-19,Shopping,Clothing store,1858.58,Cash,June,6,2024,Wednesday
+2024-12-17,Entertainment,Gaming,1866.03,UPI,December,12,2024,Tuesday
+2024-04-05,Shopping,Amazon purchase,714.03,UPI,April,4,2024,Friday
+2024-08-12,Food & Dining,Coffee shop,418.58,Debit Card,August,8,2024,Monday
+2024-08-20,Transportation,Bus pass,272.08,Credit Card,August,8,2024,Tuesday
+2024-11-11,Food & Dining,Restaurant dinner,247.54,UPI,November,11,2024,Monday
+2024-09-28,Transportation,Ola cab,225.75,UPI,September,9,2024,Saturday
+2024-10-28,Shopping,Flipkart order,5456.17,Net Banking,October,10,2024,Monday
+2024-07-05,Transportation,Metro card recharge,213.16,Cash,July,7,2024,Friday
+2024-10-12,Miscellaneous,ATM withdrawal,891.74,Debit Card,October,10,2024,Saturday
+2024-12-17,Shopping,Clothing store,1159.96,Cash,December,12,2024,Tuesday
+2024-10-18,Shopping,Home decor,2515.33,Cash,October,10,2024,Friday
+2024-08-06,Education,Udemy course,2965.42,Debit Card,August,8,2024,Tuesday
+2024-02-05,Miscellaneous,ATM withdrawal,351.21,Net Banking,February,2,2024,Monday
+2024-05-31,Food & Dining,Grocery shopping,698.02,Cash,May,5,2024,Friday
+2024-04-21,Shopping,Books,613.22,UPI,April,4,2024,Sunday
+2024-10-06,Food & Dining,Supermarket,261.56,UPI,October,10,2024,Sunday
+2024-07-16,Transportation,Metro card recharge,498.45,Net Banking,July,7,2024,Tuesday
+2024-08-13,Food & Dining,Grocery shopping,465.32,UPI,August,8,2024,Tuesday
+2024-08-14,Shopping,Amazon purchase,1569.22,Credit Card,August,8,2024,Wednesday
+2024-02-22,Food & Dining,Restaurant dinner,318.36,Net Banking,February,2,2024,Thursday
+2024-03-27,Food & Dining,Swiggy delivery,579.93,Net Banking,March,3,2024,Wednesday
+2024-03-06,Miscellaneous,Other expense,580.71,Cash,March,3,2024,Wednesday
+2024-07-29,Food & Dining,Coffee shop,646.82,Cash,July,7,2024,Monday
+2024-01-10,Transportation,Bus pass,267.51,Cash,January,1,2024,Wednesday
+2024-10-02,Food & Dining,Restaurant dinner,537.21,UPI,October,10,2024,Wednesday
+2024-09-24,Transportation,Ola cab,204.31,UPI,September,9,2024,Tuesday
+2024-10-19,Shopping,Amazon purchase,2575.86,Debit Card,October,10,2024,Saturday
+2024-05-02,Transportation,Uber ride,417.56,Cash,May,5,2024,Thursday
+2024-04-25,Miscellaneous,Gift purchase,984.03,UPI,April,4,2024,Thursday
+2024-05-15,Food & Dining,Restaurant dinner,264.22,Net Banking,May,5,2024,Wednesday
+2024-11-08,Utilities,Electricity,1845.56,Cash,November,11,2024,Friday
+2024-05-20,Food & Dining,Supermarket,232.72,UPI,May,5,2024,Monday
+2024-08-13,Food & Dining,Supermarket,746.27,Credit Card,August,8,2024,Tuesday
+2024-01-15,Miscellaneous,Gift purchase,647.98,Debit Card,January,1,2024,Monday
+2024-10-16,Healthcare,Health insurance,890.25,Cash,October,10,2024,Wednesday
+2024-03-17,Shopping,Home decor,1788.76,UPI,March,3,2024,Sunday
+2024-03-04,Transportation,Metro card recharge,221.65,Debit Card,March,3,2024,Monday
+2024-02-05,Education,Books & stationery,2993.94,Net Banking,February,2,2024,Monday
+2024-09-02,Food & Dining,Zomato order,744.22,UPI,September,9,2024,Monday
+2024-05-31,Transportation,Ola cab,341.05,Cash,May,5,2024,Friday
+2024-07-25,Utilities,Electricity,1737.39,Credit Card,July,7,2024,Thursday
+2024-04-24,Food & Dining,Restaurant dinner,-320.59,Debit Card,April,4,2024,Wednesday
+2024-10-23,Shopping,Home decor,3931.44,Net Banking,October,10,2024,Wednesday
+2024-04-25,Healthcare,Lab test,946.64,Cash,April,4,2024,Thursday
+2024-08-29,Food & Dining,Grocery shopping,730.54,Net Banking,August,8,2024,Thursday
+2024-08-14,Travel,Cab booking,5266.8,Net Banking,August,8,2024,Wednesday
+2024-04-07,Food & Dining,Swiggy delivery,632.04,Cash,April,4,2024,Sunday
+2024-10-08,Miscellaneous,ATM withdrawal,242.15,Cash,October,10,2024,Tuesday
+2024-03-12,Entertainment,Netflix subscription,1079.71,Net Banking,March,3,2024,Tuesday
+2024-04-23,Food & Dining,Coffee shop,280.14,Debit Card,April,4,2024,Tuesday
+2024-07-08,Transportation,Auto rickshaw,229.75,Net Banking,July,7,2024,Monday
+2024-08-05,Miscellaneous,ATM withdrawal,595.35,UPI,August,8,2024,Monday
+2024-03-14,Transportation,Uber ride,361.91,Debit Card,March,3,2024,Thursday
+2024-09-27,Food & Dining,Zomato order,787.23,Credit Card,September,9,2024,Friday
+2024-04-06,Education,Books & stationery,3144.13,Net Banking,April,4,2024,Saturday
+2024-05-19,Food & Dining,Restaurant dinner,326.38,UPI,May,5,2024,Sunday
+2024-06-03,Shopping,Amazon purchase,791.69,Credit Card,June,6,2024,Monday
+2024-07-12,Transportation,Ola cab,,Net Banking,July,7,2024,Friday
+2024-08-28,Healthcare,Health insurance,750.54,Net Banking,August,8,2024,Wednesday
+2024-11-06,Miscellaneous,Gift purchase,204.08,Net Banking,November,11,2024,Wednesday
+2024-09-28,Travel,Flight tickets,12781.0,Cash,September,9,2024,Saturday
+2024-08-20,Food & Dining,Coffee shop,235.95,Cash,August,8,2024,Tuesday
+2024-10-25,Entertainment,Concert,214.87,UPI,October,10,2024,Friday
+2024-10-13,Transportation,Bus pass,416.66,Debit Card,October,10,2024,Sunday
+2024-04-09,Travel,Hotel booking,14995.72,Debit Card,April,4,2024,Tuesday
+2024-12-22,Food & Dining,Coffee shop,728.39,Net Banking,December,12,2024,Sunday
+2024-06-19,Food & Dining,Restaurant dinner,275.55,Net Banking,June,6,2024,Wednesday
+2024-11-17,Food & Dining,Zomato order,608.29,Net Banking,November,11,2024,Sunday
+2024-06-17,Food & Dining,Grocery shopping,607.03,UPI,June,6,2024,Monday
+2024-04-12,Healthcare,Doctor consultation,535.28,UPI,April,4,2024,Friday
+2024-11-19,Transportation,Metro card recharge,196.78,Debit Card,November,11,2024,Tuesday
+2024-12-19,Transportation,Auto rickshaw,278.85,UPI,December,12,2024,Thursday
+2024-09-10,Shopping,Clothing store,2607.12,Cash,September,9,2024,Tuesday
+2024-10-14,Food & Dining,Restaurant dinner,664.98,Cash,October,10,2024,Monday
+2024-10-29,Food & Dining,Coffee shop,504.4,UPI,October,10,2024,Tuesday
+2024-09-29,Transportation,Auto rickshaw,,UPI,September,9,2024,Sunday
+2024-08-18,Healthcare,Health insurance,775.53,Net Banking,August,8,2024,Sunday
+2024-08-18,Food & Dining,Swiggy delivery,348.34,UPI,August,8,2024,Sunday
+2024-10-08,Food & Dining,Zomato order,591.29,Net Banking,October,10,2024,Tuesday
+2024-09-17,Food & Dining,Zomato order,311.49,Net Banking,September,9,2024,Tuesday
+2024-03-27,Entertainment,Concert,657.83,Debit Card,March,3,2024,Wednesday
+2024-05-15,Shopping,Home decor,2417.4,Cash,May,5,2024,Wednesday
+2024-12-16,Transportation,Ola cab,,Credit Card,December,12,2024,Monday
+2024-09-26,Entertainment,OTT platform,259.04,Cash,September,9,2024,Thursday
+2024-09-11,Education,Certification exam,4563.21,Debit Card,September,9,2024,Wednesday
+2024-12-24,Food & Dining,Swiggy delivery,421.34,Net Banking,December,12,2024,Tuesday
+2024-10-27,Food & Dining,Coffee shop,777.22,UPI,October,10,2024,Sunday
+2024-06-29,Food & Dining,Supermarket,314.08,UPI,June,6,2024,Saturday
+2024-12-03,Shopping,Home decor,2755.0,UPI,December,12,2024,Tuesday
+2024-09-01,Food & Dining,Coffee shop,411.06,Cash,September,9,2024,Sunday
+2024-05-04,Food & Dining,Coffee shop,398.16,Credit Card,May,5,2024,Saturday
+2024-04-19,Transportation,Uber ride,152.98,UPI,April,4,2024,Friday
+2024-05-31,Transportation,Ola cab,266.2,Debit Card,May,5,2024,Friday
+2024-07-23,Transportation,Auto rickshaw,498.93,Debit Card,July,7,2024,Tuesday
+2024-06-28,Food & Dining,Supermarket,,Net Banking,June,6,2024,Friday
+2024-03-30,Education,Books & stationery,3581.07,Cash,March,3,2024,Saturday
+2024-04-05,Transportation,Metro card recharge,299.01,Net Banking,April,4,2024,Friday
+2024-09-27,Utilities,Electricity,1134.71,Debit Card,September,9,2024,Friday
+2024-06-19,Food & Dining,Supermarket,411.38,UPI,June,6,2024,Wednesday
+2024-10-30,Food & Dining,Zomato order,502.3,Net Banking,October,10,2024,Wednesday
+2024-11-24,Miscellaneous,Bank charges,534.65,Cash,November,11,2024,Sunday
+2024-04-11,Food & Dining,Zomato order,614.37,Debit Card,April,4,2024,Thursday
+2024-08-12,Miscellaneous,Gift purchase,571.66,Net Banking,August,8,2024,Monday
+2024-11-22,Food & Dining,Coffee shop,353.2,Credit Card,November,11,2024,Friday
+2024-03-22,Transportation,Metro card recharge,305.89,Cash,March,3,2024,Friday
+2024-10-09,Transportation,Auto rickshaw,213.22,Cash,October,10,2024,Wednesday
+2024-09-07,Miscellaneous,ATM withdrawal,677.53,Cash,September,9,2024,Saturday
+2024-04-17,Entertainment,OTT platform,1112.37,Credit Card,April,4,2024,Wednesday
+2024-10-04,Food & Dining,Swiggy delivery,388.16,Credit Card,October,10,2024,Friday
+2024-02-10,Food & Dining,Grocery shopping,581.03,Net Banking,February,2,2024,Saturday
+2024-12-10,Food & Dining,Supermarket,449.92,UPI,December,12,2024,Tuesday
+2024-02-26,Utilities,Mobile recharge,1249.74,Net Banking,February,2,2024,Monday
+2024-08-11,Utilities,Gas cylinder,1614.96,Cash,August,8,2024,Sunday
+2024-03-05,Shopping,Home decor,2036.07,Credit Card,March,3,2024,Tuesday
+2024-07-08,Food & Dining,Zomato order,634.75,Debit Card,July,7,2024,Monday
+2024-05-21,Food & Dining,Zomato order,725.12,Credit Card,May,5,2024,Tuesday
+2024-10-18,Utilities,Gas cylinder,1248.95,UPI,October,10,2024,Friday
+2024-05-03,Entertainment,Gaming,1039.67,Cash,May,5,2024,Friday
+2024-01-17,Food & Dining,Supermarket,307.99,Debit Card,January,1,2024,Wednesday
+2024-02-03,Food & Dining,Swiggy delivery,574.59,Net Banking,February,2,2024,Saturday
+2024-01-29,Food & Dining,Restaurant dinner,424.9,Debit Card,January,1,2024,Monday
+2024-05-09,Food & Dining,Grocery shopping,588.14,UPI,May,5,2024,Thursday
+2024-04-23,Education,Udemy course,4480.83,Credit Card,April,4,2024,Tuesday
+2024-10-28,Miscellaneous,Charity donation,374.84,Net Banking,October,10,2024,Monday
+2024-01-10,Transportation,Bus pass,267.51,Cash,January,1,2024,Wednesday
+2024-06-18,Entertainment,Netflix subscription,330.71,Debit Card,June,6,2024,Tuesday
+2024-03-11,Entertainment,Gaming,1245.16,Net Banking,March,3,2024,Monday
+2024-02-16,Transportation,Petrol,139.38,Credit Card,February,2,2024,Friday
+2024-07-08,Transportation,Ola cab,405.23,Net Banking,July,7,2024,Monday
+2024-10-22,Transportation,Ola cab,161.89,Cash,October,10,2024,Tuesday
+2024-10-15,Healthcare,Health insurance,1063.14,Net Banking,October,10,2024,Tuesday
+2024-05-15,Shopping,Home decor,892.64,Debit Card,May,5,2024,Wednesday
+2024-02-08,Miscellaneous,Other expense,721.92,Debit Card,February,2,2024,Thursday
+2024-11-27,Food & Dining,Zomato order,359.38,Debit Card,November,11,2024,Wednesday
+2024-10-20,Rent & Housing,Broadband bill,9151.76,Net Banking,October,10,2024,Sunday
+2024-06-07,Entertainment,OTT platform,624.04,UPI,June,6,2024,Friday
+2024-08-10,Food & Dining,Zomato order,788.02,Credit Card,August,8,2024,Saturday
+2024-07-21,Utilities,Gas cylinder,1618.71,Debit Card,July,7,2024,Sunday
+2024-11-08,Food & Dining,Grocery shopping,785.05,Cash,November,11,2024,Friday
+2024-01-09,Food & Dining,Grocery shopping,332.96,Debit Card,January,1,2024,Tuesday
+2024-07-22,Food & Dining,Zomato order,780.92,Cash,July,7,2024,Monday
+2024-12-04,Transportation,Auto rickshaw,406.52,Debit Card,December,12,2024,Wednesday
+2024-03-15,Food & Dining,Swiggy delivery,531.99,Net Banking,March,3,2024,Friday
+2024-06-21,Healthcare,Lab test,944.51,Cash,June,6,2024,Friday
+2024-07-31,Transportation,Uber ride,415.09,UPI,July,7,2024,Wednesday
+2024-06-12,Entertainment,Movie tickets,1319.01,Cash,June,6,2024,Wednesday
+2024-11-24,Transportation,Bus pass,248.48,Credit Card,November,11,2024,Sunday
+2024-05-10,Food & Dining,Swiggy delivery,461.63,Net Banking,May,5,2024,Friday
+2024-03-14,Utilities,Mobile recharge,1517.13,Cash,March,3,2024,Thursday
+2024-08-14,Shopping,Flipkart order,2368.35,Debit Card,August,8,2024,Wednesday
+2024-06-12,Entertainment,Gaming,730.74,UPI,June,6,2024,Wednesday
+2024-02-25,Shopping,Electronics,1364.22,UPI,February,2,2024,Sunday
+2024-02-12,Entertainment,Movie tickets,302.61,Net Banking,February,2,2024,Monday
+2024-01-31,Transportation,Bus pass,435.63,Credit Card,January,1,2024,Wednesday
+2024-07-29,Entertainment,OTT platform,574.68,Cash,July,7,2024,Monday
+2024-09-06,Food & Dining,Coffee shop,461.5,Credit Card,September,9,2024,Friday
+2024-06-03,Shopping,Amazon purchase,2968.08,Net Banking,June,6,2024,Monday
+2024-12-03,Transportation,Uber ride,283.22,Credit Card,December,12,2024,Tuesday
+2024-01-28,Transportation,Uber ride,249.58,Cash,January,1,2024,Sunday
+2024-10-22,Food & Dining,Grocery shopping,241.73,Debit Card,October,10,2024,Tuesday
+2024-06-22,Shopping,Flipkart order,1414.02,Debit Card,June,6,2024,Saturday
+2024-07-24,Food & Dining,Zomato order,644.58,Credit Card,July,7,2024,Wednesday
+2024-10-10,Utilities,Electricity,517.22,Credit Card,October,10,2024,Thursday
+2024-08-13,Food & Dining,Zomato order,418.92,Debit Card,August,8,2024,Tuesday
+2024-05-03,Food & Dining,Grocery shopping,411.74,Credit Card,May,5,2024,Friday
+2024-11-23,Food & Dining,Restaurant dinner,644.93,Debit Card,November,11,2024,Saturday
+2024-04-20,Entertainment,OTT platform,559.45,Net Banking,April,4,2024,Saturday
+2024-02-25,Transportation,Metro card recharge,322.51,Credit Card,February,2,2024,Sunday
+2024-04-18,Miscellaneous,ATM withdrawal,965.87,Credit Card,April,4,2024,Thursday
+2024-04-12,Education,Books & stationery,2571.36,UPI,April,4,2024,Friday
+2024-12-21,Food & Dining,Grocery shopping,308.25,UPI,December,12,2024,Saturday
+2024-01-11,Miscellaneous,Other expense,-705.05,UPI,January,1,2024,Thursday
+2024-09-06,Food & Dining,Swiggy delivery,378.02,Credit Card,September,9,2024,Friday
+2024-12-11,Food & Dining,Coffee shop,465.87,Cash,December,12,2024,Wednesday
+2024-02-26,Healthcare,Doctor consultation,703.99,Credit Card,February,2,2024,Monday
+2024-08-19,Utilities,Internet bill,1120.72,Cash,August,8,2024,Monday
+2024-01-19,Transportation,Uber ride,225.81,UPI,January,1,2024,Friday
+2024-04-30,Food & Dining,Restaurant dinner,270.93,UPI,April,4,2024,Tuesday
+2024-02-07,Transportation,Ola cab,454.45,Net Banking,February,2,2024,Wednesday
+2024-10-11,Transportation,Auto rickshaw,488.92,Cash,October,10,2024,Friday
+2024-12-09,Shopping,Amazon purchase,1408.28,Debit Card,December,12,2024,Monday
+2024-11-01,Entertainment,OTT platform,559.15,Credit Card,November,11,2024,Friday
+2024-06-14,Utilities,Gas cylinder,1746.1,Credit Card,June,6,2024,Friday
+2024-08-07,Food & Dining,Coffee shop,411.69,Net Banking,August,8,2024,Wednesday
+2024-12-18,Shopping,Books,1992.27,UPI,December,12,2024,Wednesday
+2024-11-25,Transportation,Bus pass,205.95,Debit Card,November,11,2024,Monday
+2024-09-11,Food & Dining,Coffee shop,767.14,Net Banking,September,9,2024,Wednesday
+2024-07-06,Healthcare,Doctor consultation,922.09,Cash,July,7,2024,Saturday
+2024-06-07,Food & Dining,Restaurant dinner,328.52,Cash,June,6,2024,Friday
+2024-06-11,Shopping,Home decor,2718.6,Cash,June,6,2024,Tuesday
+2024-08-18,Food & Dining,Supermarket,478.83,Net Banking,August,8,2024,Sunday
+2024-12-30,Entertainment,OTT platform,1448.32,UPI,December,12,2024,Monday
+2024-07-14,Education,Books & stationery,4731.31,Credit Card,July,7,2024,Sunday
+2024-12-30,Transportation,Metro card recharge,497.85,Net Banking,December,12,2024,Monday
+2024-12-08,Utilities,DTH recharge,1716.12,UPI,December,12,2024,Sunday
+2024-08-20,Food & Dining,Supermarket,340.05,UPI,August,8,2024,Tuesday
+2024-09-21,Utilities,Gas cylinder,927.59,Debit Card,September,9,2024,Saturday
+2024-07-30,Miscellaneous,ATM withdrawal,601.56,Debit Card,July,7,2024,Tuesday
+2024-06-03,Food & Dining,Zomato order,430.82,Cash,June,6,2024,Monday
+2024-05-03,Entertainment,Concert,1016.73,Net Banking,May,5,2024,Friday
+2024-02-10,Utilities,Gas cylinder,1799.73,Cash,February,2,2024,Saturday
+2024-06-16,Food & Dining,Restaurant dinner,601.55,Debit Card,June,6,2024,Sunday
+2024-10-23,Food & Dining,Coffee shop,387.17,Cash,October,10,2024,Wednesday
+2024-05-26,Food & Dining,Zomato order,,Net Banking,May,5,2024,Sunday
+2024-08-26,Food & Dining,Grocery shopping,788.79,Cash,August,8,2024,Monday
+2024-07-24,Transportation,Ola cab,330.81,Credit Card,July,7,2024,Wednesday
+2024-03-21,Transportation,Auto rickshaw,481.53,UPI,March,3,2024,Thursday
+2024-02-17,Miscellaneous,ATM withdrawal,863.83,Debit Card,February,2,2024,Saturday
+2024-10-17,Utilities,Internet bill,972.02,Cash,October,10,2024,Thursday
+2024-01-05,Shopping,Home decor,2214.5,Credit Card,January,1,2024,Friday
+2024-12-01,Transportation,Auto rickshaw,276.71,Debit Card,December,12,2024,Sunday
+2024-12-25,Food & Dining,Restaurant dinner,723.3,Cash,December,12,2024,Wednesday
+2024-02-13,Utilities,Mobile recharge,733.37,Net Banking,February,2,2024,Tuesday
+2024-11-08,Food & Dining,Restaurant dinner,649.12,Cash,November,11,2024,Friday
+2024-03-04,Transportation,Auto rickshaw,369.13,UPI,March,3,2024,Monday
+2024-06-06,Entertainment,Concert,714.73,Credit Card,June,6,2024,Thursday
+2024-02-02,Rent & Housing,Broadband bill,8421.79,Credit Card,February,2,2024,Friday
+2024-11-21,Education,Coaching fees,4860.75,Cash,November,11,2024,Thursday
+2024-07-26,Entertainment,Concert,1400.04,UPI,July,7,2024,Friday
+2024-11-18,Entertainment,Movie tickets,1206.99,Cash,November,11,2024,Monday
+2024-10-02,Healthcare,Lab test,1090.29,Net Banking,October,10,2024,Wednesday
+2024-03-09,Healthcare,Pharmacy,1434.88,Net Banking,March,3,2024,Saturday
+2024-09-13,Rent & Housing,Monthly rent,11064.31,Net Banking,September,9,2024,Friday
+2024-12-19,Transportation,Metro card recharge,277.35,Debit Card,December,12,2024,Thursday
+2024-02-16,Education,Coaching fees,919.54,Credit Card,February,2,2024,Friday
+2024-09-16,Healthcare,Doctor consultation,1719.7,Net Banking,September,9,2024,Monday
+2024-07-27,Miscellaneous,Gift purchase,774.53,Debit Card,July,7,2024,Saturday
+2024-07-08,Transportation,Petrol,142.47,Debit Card,July,7,2024,Monday
+2024-01-19,Utilities,Internet bill,1373.76,Debit Card,January,1,2024,Friday
+2024-08-30,Healthcare,Health insurance,,Debit Card,August,8,2024,Friday
+2024-03-06,Food & Dining,Supermarket,598.96,Cash,March,3,2024,Wednesday
+2024-10-15,Food & Dining,Grocery shopping,689.45,UPI,October,10,2024,Tuesday
+2024-07-31,Transportation,Bus pass,123.09,Cash,July,7,2024,Wednesday
+2024-05-05,Transportation,Bus pass,163.1,Net Banking,May,5,2024,Sunday
+2024-09-06,Food & Dining,Grocery shopping,678.7,UPI,September,9,2024,Friday
+2024-01-11,Miscellaneous,Other expense,705.05,UPI,January,1,2024,Thursday
+2024-04-17,Entertainment,OTT platform,1067.01,UPI,April,4,2024,Wednesday
+2024-08-20,Miscellaneous,Gift purchase,588.97,Cash,August,8,2024,Tuesday
+2024-12-23,Transportation,Metro card recharge,211.15,Debit Card,December,12,2024,Monday
+2024-09-02,Utilities,Internet bill,1139.41,Credit Card,September,9,2024,Monday
+2024-07-10,Food & Dining,Supermarket,391.21,Credit Card,July,7,2024,Wednesday
+2024-02-17,Education,Books & stationery,3880.12,UPI,February,2,2024,Saturday
+2024-09-30,Entertainment,Movie tickets,1305.43,Credit Card,September,9,2024,Monday
+2024-02-13,Transportation,Bus pass,169.02,Debit Card,February,2,2024,Tuesday
+2024-12-06,Education,Online course,3928.37,Net Banking,December,12,2024,Friday
+2024-05-13,Food & Dining,Zomato order,777.52,UPI,May,5,2024,Monday
+2024-11-28,Transportation,Metro card recharge,158.42,Credit Card,November,11,2024,Thursday
+2024-05-24,Healthcare,Medicine purchase,1154.94,Cash,May,5,2024,Friday
+2024-06-10,Miscellaneous,ATM withdrawal,942.16,Credit Card,June,6,2024,Monday
+2024-12-05,Food & Dining,Zomato order,583.7,Credit Card,December,12,2024,Thursday
+2024-05-22,Transportation,Petrol,449.79,Credit Card,May,5,2024,Wednesday
+2024-05-09,Entertainment,Spotify,664.22,Credit Card,May,5,2024,Thursday
+2024-02-22,Food & Dining,Swiggy delivery,258.03,UPI,February,2,2024,Thursday
+2024-02-13,Food & Dining,Grocery shopping,598.31,Net Banking,February,2,2024,Tuesday
+2024-09-16,Transportation,Petrol,332.13,Credit Card,September,9,2024,Monday
+2024-07-06,Food & Dining,Swiggy delivery,436.74,UPI,July,7,2024,Saturday
+2024-07-15,Miscellaneous,ATM withdrawal,129.15,Debit Card,July,7,2024,Monday
+2024-01-25,Healthcare,Doctor consultation,1001.07,Debit Card,January,1,2024,Thursday
+2024-08-29,Entertainment,Gaming,380.43,Cash,August,8,2024,Thursday
+2024-12-04,Transportation,Uber ride,265.42,UPI,December,12,2024,Wednesday
+2024-05-03,Transportation,Petrol,333.26,Debit Card,May,5,2024,Friday
+2024-08-04,Entertainment,Concert,1149.66,Net Banking,August,8,2024,Sunday
+2024-11-26,Miscellaneous,ATM withdrawal,437.01,Cash,November,11,2024,Tuesday
+2024-05-27,Entertainment,Spotify,405.37,Cash,May,5,2024,Monday
+2024-10-15,Shopping,Flipkart order,1369.06,Cash,October,10,2024,Tuesday
+2024-08-15,Miscellaneous,Bank charges,829.46,UPI,August,8,2024,Thursday
+2024-11-04,Transportation,Uber ride,300.03,Credit Card,November,11,2024,Monday
+2024-09-16,Shopping,Home decor,882.1,Debit Card,September,9,2024,Monday
+2024-07-22,Miscellaneous,ATM withdrawal,,Net Banking,July,7,2024,Monday
+2024-08-24,Transportation,Auto rickshaw,175.03,UPI,August,8,2024,Saturday
+2024-04-25,Miscellaneous,Charity donation,239.45,UPI,April,4,2024,Thursday
+2024-04-14,Transportation,Bus pass,409.99,Cash,April,4,2024,Sunday
+2024-04-26,Transportation,Ola cab,220.91,Net Banking,April,4,2024,Friday
+2024-09-28,Food & Dining,Restaurant dinner,451.9,UPI,September,9,2024,Saturday
+2024-03-15,Food & Dining,Grocery shopping,372.58,Credit Card,March,3,2024,Friday
+2024-10-06,Transportation,Bus pass,466.76,Net Banking,October,10,2024,Sunday
+2024-03-06,Food & Dining,Grocery shopping,418.79,Credit Card,March,3,2024,Wednesday
+2024-12-04,Transportation,Ola cab,406.42,Credit Card,December,12,2024,Wednesday
+2024-09-07,Utilities,Gas cylinder,1169.82,Cash,September,9,2024,Saturday
+2024-06-12,Food & Dining,Swiggy delivery,794.37,UPI,June,6,2024,Wednesday
+2024-12-07,Education,Books & stationery,,Credit Card,December,12,2024,Saturday
+2024-04-06,Miscellaneous,Gift purchase,314.92,Cash,April,4,2024,Saturday
+2024-10-03,Utilities,Gas cylinder,1048.79,Net Banking,October,10,2024,Thursday
+2024-01-25,Utilities,Gas cylinder,997.89,Credit Card,January,1,2024,Thursday
+2024-05-24,Entertainment,Concert,1288.72,Net Banking,May,5,2024,Friday
+2024-02-28,Transportation,Auto rickshaw,486.48,Debit Card,February,2,2024,Wednesday
+2024-03-22,Education,Books & stationery,4701.88,UPI,March,3,2024,Friday
+2024-07-31,Food & Dining,Swiggy delivery,699.73,Cash,July,7,2024,Wednesday
+2024-09-18,Transportation,Auto rickshaw,122.25,Debit Card,September,9,2024,Wednesday
+2024-11-23,Food & Dining,Grocery shopping,733.4,Net Banking,November,11,2024,Saturday
+2024-03-17,Shopping,Electronics,2318.09,Net Banking,March,3,2024,Sunday
