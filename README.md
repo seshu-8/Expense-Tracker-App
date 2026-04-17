@@ -296,10 +296,8 @@ MIT License — free to use, modify, and share.
 
 ## 👤 Author
 
-**[Your Name]**  
-Data Science Student | Aspiring Data / Business / Financial Analyst  
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+**KONIJETI VENKATA SESHU BABU**   
+[LinkedIn](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android) · 
 
 ---
 
-> ⭐ If this project helped you, please give it a star on GitHub!
